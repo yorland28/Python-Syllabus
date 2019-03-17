@@ -1,8 +1,8 @@
 # Python-Syllabus
 Python Syllabus (PCAP Exam)
 
-Exam block #1: Control and Evaluations (25%)
-Objectives covered by the block (10 exam items)
+**Exam block #1: Control and Evaluations (25%)
+Objectives covered by the block (10 exam items)**
 
 **basic concepts:** interpreting and the interpreter, compilation and the compiler, language elements, lexis, syntax and semantics, Python keywords, instructions, indenting
 
@@ -36,8 +36,8 @@ expanding loops: while-else, for-else, nesting loops and conditional statements
 controlling loop execution: break, continue
 
 
-Exam Block #2: Data Aggregates (25%)
-Objectives covered by the block (10 exam items)
+**Exam Block #2: Data Aggregates (25%)
+Objectives covered by the block (10 exam items)**
 
 strings in detail: ASCII, UNICODE, UTF-8, immutability, escaping using the \ character, quotes and apostrophes inside strings, multiline strings, copying vs. cloning, advanced slicing, string vs. string, string vs. non-string, basic string methods (upper(), lower(), isxxx(), capitalize(), split(), join(), etc.) and functions (len(), chr(), ord()), escape characters
 
@@ -52,8 +52,8 @@ tuples vs. lists: similarities and differences, lists inside tuples and tuples i
 dictionaries: building, indexing, adding and removing keys, iterating through dictionaries as well as their keys and values, checking key existence, keys(), items() and values() methods
 
 
-Exam block #3: Functions and Modules (25%)
-Objectives covered by the block (10 exam items)
+**Exam block #3: Functions and Modules (25%)
+Objectives covered by the block (10 exam items)**
 
 defining and invoking your own functions and generators
 
@@ -84,8 +84,8 @@ hiding module entities
 Python hashbangs, using multiline strings as module documentation
 
 
-Exam block #4: Classes, Objects, and Exceptions (25%)
-Objectives covered by the block (10 exam items)
+**Exam block #4: Classes, Objects, and Exceptions (25%)
+Objectives covered by the block (10 exam items)**
 
 defining your own classes, superclasses, subclasses, inheritance, searching for missing class components, creating objects
 
