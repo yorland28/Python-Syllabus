@@ -23,6 +23,8 @@ simple strings: constructing, assigning, indexing, slicing comparing, immutabili
 building loops: while, for, range(), in, iterating through sequences
 expanding loops: while-else, for-else, nesting loops and conditional statements
 controlling loop execution: break, continue
+
+
 Exam Block #2: Data Aggregates (25%)
 Objectives covered by the block (10 exam items)
 
@@ -32,6 +34,8 @@ lists in lists: matrices and cubes
 tuples: indexing, slicing, building, immutability
 tuples vs. lists: similarities and differences, lists inside tuples and tuples inside lists
 dictionaries: building, indexing, adding and removing keys, iterating through dictionaries as well as their keys and values, checking key existence, keys(), items() and values() methods
+
+
 Exam block #3: Functions and Modules (25%)
 Objectives covered by the block (10 exam items)
 
@@ -49,6 +53,8 @@ pyc file creation and usage
 constructing and distributing packages, packages vs. directories, the role of the __init__.py file
 hiding module entities
 Python hashbangs, using multiline strings as module documentation
+
+
 Exam block #4: Classes, Objects, and Exceptions (25%)
 Objectives covered by the block (10 exam items)
 
