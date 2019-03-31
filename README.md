@@ -6,17 +6,17 @@ Objectives covered by the block (10 exam items)**
 
 **basic concepts:** interpreting and the interpreter, compilation and the compiler, language elements, lexis, syntax and semantics, Python keywords, instructions, indenting
 
-literals: Boolean, integer, floating-point numbers, scientific notation, strings
+**literals:** Boolean, integer, floating-point numbers, scientific notation, strings
 
-operators: unary and binary, priorities and binding
+**operators:** unary and binary, priorities and binding
 
-numeric operators: ** * / % // + –
+**numeric operators:** ** * / % // + –
 
-bitwise operators: ~ & ^ | << >>
+**bitwise operators:** ~ & ^ | << >>
 
-string operators: * +
+**string operators:** * +
 
-Boolean operators: not and or relational operators ( == != > >= < <= ), building complex Boolean expressions assignments and shortcut operators
+**Boolean operators:** not and or relational operators ( == != > >= < <= ), building complex Boolean expressions assignments and shortcut operators
 accuracy of floating-point numbers
 
 basic input and output: input(), print(), int(), float(), str() functions
