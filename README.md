@@ -19,7 +19,7 @@ Objectives covered by the block (10 exam items)**
 **Boolean operators:** not and or relational operators ( == != > >= < <= ), building complex Boolean expressions assignments and shortcut operators
 accuracy of floating-point numbers
 
-basic input and output: input(), print(), int(), float(), str() functions
+**basic input and output:** input(), print(), int(), float(), str() functions
 formatting print() output with end= and sep= arguments
 
 conditional statements: if, if-else, if-elif, if-elif-else
