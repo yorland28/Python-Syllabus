@@ -32,7 +32,7 @@ data = (1, 2, 3, 4)
 print(data[0])
 # You can't change the duple value
 # data[0] = 0
-print("The value didn't change, alway will be: ", data[0])
+print("The value didn't change, always will be: ", data[0])
 
 # Dictionary
 print("\nDictionary")
